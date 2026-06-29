@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y no compartirlas con otras personas.
+2. Solicitar únicamente los datos personales que sean necesarios.
+3. Mantener la plataforma y sus programas actualizados.
+4. Permitir el acceso a información sensible solo a usuarios autorizados.
+5. Realizar copias de seguridad para evitar la pérdida de información.
